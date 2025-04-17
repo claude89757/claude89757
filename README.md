@@ -16,13 +16,18 @@
 - 🚗 自动驾驶 (Autonomous Driving)
 - 🕸️ 爬虫 (Web Crawler)
 
+---
+
+
+> 💬Wechat: claude89757  (小号)
+> 🍠小红书: [claude89757](https://www.xiaohongshu.com/user/profile/5f033f130000000001000da0)
+
+
+---
+
 
 ### Alice
 
 ![Alice](images/alice.jpg)
 
 
----
-
-
-> 🍠小红书: [点击关注不迷路](https://www.xiaohongshu.com/user/profile/5f033f130000000001000da0)
