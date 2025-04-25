@@ -1,7 +1,5 @@
 # 个人介绍 | Personal Introduction
 
-## 中文版
-
 ### 关于我
 - 🎾 网球爱好者 (Tennis Lover)
 - 🎮 魂类游戏爱好者 (Souls-like Games Enthusiast)
