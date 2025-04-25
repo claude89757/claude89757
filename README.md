@@ -18,9 +18,7 @@
 
 ---
 
-
-> 💬Wechat: claude89757
-> 
+ 
 > 🍠小红书: [claude89757](https://www.xiaohongshu.com/user/profile/5f033f130000000001000da0)
 
 
