@@ -22,6 +22,13 @@
 
 ---
 
+### 广告位
+
+住宅 IP 主机购买：[Lisahost](https://lisahost.com/aff.php?aff=7066)
+备注：翻墙使用 claude、ChatGPT 等可以使用这个 VPS 来搭🪜
+
+---
+
 
 ### Alice
 
