@@ -24,9 +24,9 @@
 
 ### 广告位
 
-![11d43fb6a262b219435444778b4712ef](https://github.com/user-attachments/assets/40eeaefe-8bf8-44a6-bb3b-0eb2370b1415)
 
-住宅 IP 主机购买：[Lisahost](https://lisahost.com/aff.php?aff=7066)
+1. Safepal加密货币银行卡，邀请码：103119 （可用于支付 claude、chatgpt 等海外 AI 服务）
+2. 住宅 IP 主机购买：[Lisahost](https://lisahost.com/aff.php?aff=7066)
 备注：翻墙使用 claude、ChatGPT 等可以使用这个 VPS 来搭🪜
 
 ---
