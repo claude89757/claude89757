@@ -26,7 +26,7 @@
 
 
 1. Safepal加密货币银行卡，邀请码：103119 （可用于支付 claude、chatgpt 等海外 AI 服务）
-2. 住宅 IP 主机购买：[Lisahost](https://lisahost.com/aff.php?aff=7066)
+2. 住宅 IP 主机购买：[Yin-net](https://www.yin-net.com/aff.php?aff=650)
 备注：翻墙使用 claude、ChatGPT 等可以使用这个 VPS 来搭🪜
 
 ---
